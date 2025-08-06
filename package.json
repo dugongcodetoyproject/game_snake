@@ -2,6 +2,7 @@
   "name": "game-snake",
   "version": "1.0.0",
   "description": "A React-based Snake game",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
